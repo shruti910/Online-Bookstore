@@ -1,0 +1,26 @@
+SMAP
+singleAuthor_jsp.java
+JSP
+*S JSP
+*F
++ 0 singleAuthor.jsp
+singleAuthor.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5,6:56
+5#1,12:61
+16:73
+10#0,36:74
+45,14:110
+58,8:124
+65,5:12
+69,53:132
+121,2:185
+122:187,3
+123:190
+124:191,5
+125:196
+126:197,3
+127,10:200
+*E
